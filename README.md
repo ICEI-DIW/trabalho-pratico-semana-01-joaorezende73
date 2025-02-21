@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: João Paulo Antunes Amorim de Rezende
+Matricula: 889566
 
 ## Tela de inspeção com navegador
+    <img src="Captura de tela 2025-02-21 132900" alt="">
 
 
 ## Tela de projeto no Replit
 
+    <img src="Captura de tela 2025-02-21 133119" alt="">
